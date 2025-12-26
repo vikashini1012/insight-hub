@@ -55,7 +55,7 @@ export default function Index() {
             <div className="w-9 h-9 rounded-lg gradient-bg flex items-center justify-center">
               <MessageSquare className="w-5 h-5 text-primary-foreground" />
             </div>
-            <span className="text-xl font-semibold text-foreground">Clueso</span>
+            <span className="text-xl font-semibold text-foreground">cloneio</span>
           </div>
           <div className="flex items-center gap-4">
             <Button variant="ghost" onClick={() => navigate('/auth')}>
@@ -100,7 +100,7 @@ export default function Index() {
               Everything you need to understand your users
             </h2>
             <p className="text-lg text-muted-foreground max-w-2xl mx-auto">
-              From collection to insights, Clueso helps you make sense of user feedback
+              From collection to insights, cloneio helps you make sense of user feedback
             </p>
           </div>
           <div className="grid md:grid-cols-3 gap-8">
@@ -132,7 +132,7 @@ export default function Index() {
                 Build products your users love
               </h2>
               <p className="text-lg text-muted-foreground mb-8">
-                Stop guessing what your users want. Clueso helps you understand their needs, identify patterns, and prioritize features that matter.
+                Stop guessing what your users want. cloneio helps you understand their needs, identify patterns, and prioritize features that matter.
               </p>
               <ul className="space-y-4">
                 {benefits.map((benefit) => (
@@ -179,7 +179,7 @@ export default function Index() {
               Ready to understand your users?
             </h2>
             <p className="text-lg text-primary-foreground/80 mb-8 max-w-xl mx-auto">
-              Join teams who use Clueso to collect feedback and make smarter product decisions.
+              Join teams who use cloneio to collect feedback and make smarter product decisions.
             </p>
             <Button
               size="lg"
@@ -202,10 +202,10 @@ export default function Index() {
               <div className="w-8 h-8 rounded-lg gradient-bg flex items-center justify-center">
                 <MessageSquare className="w-4 h-4 text-primary-foreground" />
               </div>
-              <span className="text-lg font-semibold text-foreground">Clueso</span>
+              <span className="text-lg font-semibold text-foreground">cloneio</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 Clueso. Built with Lovable.
+              © 2024 cloneio. Built with Lovable.
             </p>
           </div>
         </div>

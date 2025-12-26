@@ -80,7 +80,7 @@ export default function Auth() {
             <div className="w-12 h-12 rounded-xl bg-primary-foreground/20 backdrop-blur flex items-center justify-center">
               <MessageSquare className="w-7 h-7 text-primary-foreground" />
             </div>
-            <span className="text-3xl font-bold text-primary-foreground">Clueso</span>
+            <span className="text-3xl font-bold text-primary-foreground">cloneio</span>
           </div>
           <h1 className="text-4xl xl:text-5xl font-bold text-primary-foreground mb-6 leading-tight">
             Turn feedback into <br />
@@ -109,7 +109,7 @@ export default function Auth() {
             <div className="w-10 h-10 rounded-xl gradient-bg flex items-center justify-center">
               <MessageSquare className="w-6 h-6 text-primary-foreground" />
             </div>
-            <span className="text-2xl font-bold text-foreground">Clueso</span>
+            <span className="text-2xl font-bold text-foreground">cloneio</span>
           </div>
 
           <div className="text-center mb-8">

@@ -46,7 +46,7 @@ export function AppSidebar() {
           <div className="w-9 h-9 rounded-lg gradient-bg flex items-center justify-center">
             <MessageSquare className="w-5 h-5 text-primary-foreground" />
           </div>
-          <span className="text-xl font-semibold text-foreground">Clueso</span>
+          <span className="text-xl font-semibold text-foreground">cloneio</span>
         </div>
       </SidebarHeader>
 
