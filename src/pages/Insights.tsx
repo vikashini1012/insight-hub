@@ -61,10 +61,6 @@ export default function InsightsPage() {
           ? (insight.recommendations as string[]) 
           : [],
       }));
-        ...insight,
-        key_themes: Array.isArray(insight.key_themes) ? insight.key_themes : [],
-        recommendations: Array.isArray(insight.recommendations) ? insight.recommendations : [],
-      }));
       
       setInsights(parsedInsights);
     } catch (error) {
