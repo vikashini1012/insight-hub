@@ -205,7 +205,7 @@ export default function Index() {
               <span className="text-lg font-semibold text-foreground">cloneio</span>
             </div>
             <p className="text-sm text-muted-foreground">
-              © 2024 cloneio. Built with Lovable.
+              © 2024 cloneio.
             </p>
           </div>
         </div>
